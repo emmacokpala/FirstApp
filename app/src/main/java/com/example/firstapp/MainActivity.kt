@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         nextButton.setOnClickListener {
             nextButton.text = getString(R.string.sender)
             image.visibility = View.VISIBLE
-            background.setBackgroundColor(resources.getColor(R.color.limegreen))
+            background.setBackgroundColor(resources.getColor(R.color.lilac))
             text1.visibility = View.INVISIBLE
             recipient.visibility = View.INVISIBLE
             nextButton.visibility = View.INVISIBLE
