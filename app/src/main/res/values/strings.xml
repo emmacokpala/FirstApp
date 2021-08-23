@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="recipient">Dear Gem</string>
+    <string name="body_1">It\'s been 3 years of togetherness. You\'ve stuck with me through all hurdles, thick and thin. I remain grateful for your patience, Kindness and love. May we share many more happy memories together.</string>
+    <string name="sender">from ECO</string>
+    <string name="next">NEXT</string>
+    <string name="anniversaryImage">anniversaryImage</string>
+</resources>
